@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Star, Quote, ChevronLeft, ChevronRight } from 'lucide-react';
@@ -12,7 +11,7 @@ const Testimonials = () => {
       id: 1,
       name: "Sarah Johnson",
       role: "Food Critic",
-      image: "https://images.unsplash.com/photo-1494790108755-2616b612b5ab?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
+      image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=200&q=80",
       rating: 5,
       text: "Absolutely phenomenal! Every dish was a masterpiece. The attention to detail and flavor combinations are extraordinary. This is fine dining at its absolute best."
     },

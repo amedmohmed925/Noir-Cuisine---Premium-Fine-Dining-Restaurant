@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Button } from '@/components/ui/button';
@@ -13,7 +12,7 @@ const SignatureDishes = () => {
       name: "Truffle Noir Pasta",
       description: "Hand-made pasta with black truffle, parmesan, and herbs",
       price: "$45",
-      image: "https://images.unsplash.com/photo-1621996346565-e3dbc353d2e5?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1563379091339-03246963d4d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       rating: 4.9,
       badge: "Chef's Special"
     },
@@ -58,7 +57,7 @@ const SignatureDishes = () => {
       name: "Sea Bass Ceviche",
       description: "Fresh sea bass with citrus, avocado, and microgreens",
       price: "$38",
-      image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1559181567-c3190ca9959b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
       rating: 4.8,
       badge: "Fresh"
     }

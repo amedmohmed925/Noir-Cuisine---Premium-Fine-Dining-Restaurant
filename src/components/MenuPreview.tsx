@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
@@ -12,7 +11,7 @@ const MenuPreview = () => {
       { name: "Oysters Rockefeller", price: "$24", description: "Fresh oysters with spinach and herb butter" },
       { name: "Foie Gras Terrine", price: "$32", description: "Pan-seared foie gras with fig compote" },
       { name: "Caviar Service", price: "$85", description: "Beluga caviar with traditional accompaniments" },
-      { name: "Tuna Tartare", price: "$28", description: "Yellowfin tuna with avocado and sesame" }
+      { name: "Fresh Seafood", price: "$28", description: "Yellowfin tuna with avocado and sesame" }
     ],
     mains: [
       { name: "Wagyu Beef Tenderloin", price: "$120", description: "8oz A5 Wagyu with seasonal vegetables" },
