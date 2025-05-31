@@ -3,6 +3,24 @@
 
 A modern, dark-themed restaurant landing page built with React, TypeScript, and Tailwind CSS. This project features smooth animations, responsive design, and conversion-focused sections perfect for high-end restaurants and cafés.
 
+## 🚀 Quick Start
+
+```bash
+# 1. Clone the repository
+git clone <your-repository-url>
+cd noir-cuisine-landing
+
+# 2. Install dependencies
+npm install
+
+# 3. Start development server
+npm run dev
+
+# 4. Open http://localhost:8080 in your browser
+```
+
+**That's it!** Your restaurant landing page is now running locally.
+
 ## 🚀 Live Demo
 
 The landing page is fully functional and ready for deployment. You can view it by running the development server or deploying to your preferred hosting platform.
