@@ -13,6 +13,9 @@ npm run dev
 
 # 4. Open http://localhost:8080 in your browser
 
+## 🚀 Live Demo
+Experience Noir Cuisine at [https://noir-cuisine-premium-fine-dining-re.vercel.app/](https://noir-cuisine-premium-fine-dining-re.vercel.app/).
+
 That's it! Your restaurant landing page is now running locally. For non-technical users, see the Non-Technical Setup section below.
 🚀 Live Demo
 Experience Noir Cuisine’s elegant design at Live Demo (replace with your Vercel/Netlify link). Deploy it to showcase its features or test locally with the development server.
