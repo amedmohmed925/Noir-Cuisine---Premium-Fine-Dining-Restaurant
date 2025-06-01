@@ -12,7 +12,7 @@ const SignatureDishes = () => {
       name: "Truffle Noir Pasta",
       description: "Hand-made pasta with black truffle, parmesan, and herbs",
       price: "$45",
-      image: "https://images.unsplash.com/photo-1563379091339-03246963d4d6?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+      image: "https://images.unsplash.com/photo-1666600981961-6d4eebf6e4f7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       rating: 4.9,
       badge: "Chef's Special"
     },

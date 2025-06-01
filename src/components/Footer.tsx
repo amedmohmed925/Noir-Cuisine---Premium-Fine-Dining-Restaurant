@@ -188,10 +188,11 @@ const Footer = () => {
               >
                 ♥
               </motion.span>
-              <span>for fine dining enthusiasts</span>
+              <span>for fine dining enthusiasts <a style={{textDecoration:"underLine", color:"rgb(250 204 21)"}}target='_blank' href="https://www.linkedin.com/in/ahmed-mohmed-707603256/">Ahmed Mohamed</a></span>
             </div>
           </div>
         </div>
+        
       </motion.div>
     </footer>
   );
